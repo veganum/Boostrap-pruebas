@@ -1,0 +1,23 @@
+header {
+    background: blue;
+}
+
+section {
+    background: grey;
+}
+
+article {
+    background: yellow;
+}
+
+aside {
+    background: orange;
+}
+
+div.color1{
+    background: grey;
+}
+
+footer{
+    background: red;
+}
