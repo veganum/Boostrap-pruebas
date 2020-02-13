@@ -1,6 +1,6 @@
-# Boostrap-pruebas
+# 					Boostrap-pruebas
 
-#Pantalla completa
+# Pantalla completa
 
 ![image](https://user-images.githubusercontent.com/55087820/74444248-df6f2f00-4e74-11ea-8eec-aea6b0520180.png)
 
